@@ -25,7 +25,7 @@
 
 
 
-##HomeScreen Dark 
+# HomeScreen Dark 
   <img width="202" alt="homeDark" src="https://user-images.githubusercontent.com/116594165/216826153-c7f2f4f2-e0ba-4d89-97e7-31651dfbe13f.png">
 
 
